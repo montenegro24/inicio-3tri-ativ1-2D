@@ -11,13 +11,13 @@ h4 {text-align: center;
 }
 
 #ima1 {margin-left: 37%;
-       border-color: rgb(9, 11, 99);
+       border-color: rgb(255, 255, 255);
        border-width: 10px;
     border-style:groove;
     width:25%;
 }
 #ima2 {margin-left: 36%;
-    border-color:rgb(9, 11, 99);
+    border-color:rgb(255, 255, 255);
     border-width: 10px;
  border-style:groove;
  width: 27%;}
